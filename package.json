@@ -1,0 +1,9 @@
+{
+  "name": "guardrails",
+  "version": "0.1.0",
+  "description": "Provider-agnostic pre-screening layer for LLM requests",
+  "type": "module",
+  "main": "src/index.js",
+  "license": "MIT",
+  "scripts": { "demo": "node examples/demo.js" }
+}
